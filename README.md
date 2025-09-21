@@ -395,3 +395,13 @@ document.addEventListener('keydown', (e)=>{
 </script>
 </body>
 </html>
+<footer>
+  <div style="display:flex; gap:10px; justify-content:center; align-items:center; flex-wrap:wrap">
+    <div style="color:rgba(255,255,255,0.06)">&copy; Code × Ninja</div>
+    <div style="color:rgba(255,255,255,0.06)">—</div>
+    <div style="color:rgba(255,255,255,0.06)">Designed for precision</div>
+  </div>
+  <div style="margin-top:8px; font-size:13px; color:rgba(255,255,255,0.3); text-align:center;">
+    Rudra Pratap Singh • Reg No: RA2511003011539 • SRM Institute of Science and Technology
+  </div>
+</footer>
